@@ -21,9 +21,9 @@
 
 ### &nbsp; First year (2022-2023):
 
-#### &nbsp; 1 semester:
+- #### &nbsp; 1 semester:
 
-#### &nbsp; 2 semester:
+- #### &nbsp; 2 semester:
 
 
 
