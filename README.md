@@ -12,6 +12,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=AnnaGonos&style=flat-square&color=blue" alt=""/>
 
+</div>
+
 &nbsp;
 
 # 📚 &nbsp; Studies
@@ -22,7 +24,7 @@
 
  
   
-</div>
+
 
 &nbsp;
 
