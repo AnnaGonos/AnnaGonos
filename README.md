@@ -14,11 +14,11 @@
 
 &nbsp;
 
-#📚 &nbsp; Studies
+# 📚 &nbsp; Studies
 
 &nbsp;
  
- #📊 &nbsp; Stats
+# 📊 &nbsp; Stats
 
  
   
