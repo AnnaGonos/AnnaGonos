@@ -19,6 +19,13 @@
 
 ## 📚 &nbsp; Studies
 
+### First year (2022-2023):
+
+#### 1 semester:
+
+#### 2 semester:
+
+
 
 ## 💻 Tools
 
