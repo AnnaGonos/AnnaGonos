@@ -1,6 +1,8 @@
-# 👋 &nbsp; Hello there
-
 <div id="header" align="center">
+  
+  # 👋 &nbsp; Hello there
+
+  
   <img src="https://media.giphy.com/media/tMdyKBra7ntdqSbOV8/giphy.gif" width="250"/>
 
 [<img align="center" alt="AnnaGonos | Telegram" width="50px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
