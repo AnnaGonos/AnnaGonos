@@ -4,7 +4,9 @@
   <img src="https://media.giphy.com/media/tMdyKBra7ntdqSbOV8/giphy.gif" width="300"/>
 </div>
 
+[<img align="center" alt="AnnaGonos | Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 
+[telegram]: https://t.me/GonosAnna  
 
 
 
