@@ -1,4 +1,7 @@
 # 👋 &nbsp; Hello there
+
+<div id="header" align="center">
+
   
   <img src="https://media.giphy.com/media/tMdyKBra7ntdqSbOV8/giphy.gif" width="250"/>
 
@@ -10,6 +13,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=AnnaGonos&style=flat-square&color=blue" alt=""/>
 
+</div>
 
 &nbsp;
 
