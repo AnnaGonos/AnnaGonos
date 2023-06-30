@@ -19,6 +19,18 @@
 
 ## 📚 &nbsp; Studies
 
+
+## 💻 Tools
+
+### &nbsp; &nbsp; &nbsp; 📋 &nbsp;Languages
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-30B21A?style=for-the-badge&logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=python)
+
+
+
 &nbsp;
  
 ## 📊 &nbsp; Stats
