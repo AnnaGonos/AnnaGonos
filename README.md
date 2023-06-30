@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/tMdyKBra7ntdqSbOV8/giphy.gif" width="250"/>
 
 [<img align="center" alt="AnnaGonos | Telegram" width="50px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
-[<img align="center" alt="AnnaGonos | VK" width="50px" src="https://yt3.googleusercontent.com/niGc0xHujoOinmo0e_w_ZJVPGdj97kcepkWunR5dISeCQlueGf1ewLfGTxUMnJa-i6vrz1rD=s900-c-k-c0x00ffffff-no-rj" />][vk]
+[<img align="center" alt="AnnaGonos | VK" width="50px" src="https://avatars.dzeninfra.ru/get-zen_doc/4380793/pub_6424668c4b88007cce070860_642475982f2d5107b78011d4/scale_1200" />][vk]
 
 [telegram]: https://t.me/GonosAnna  
 [vk]: https://vk.com/gonos
