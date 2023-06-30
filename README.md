@@ -10,23 +10,23 @@
 [telegram]: https://t.me/GonosAnna  
 [vk]: https://vk.com/gonos
 
-
-
-
-
-
-
-
-
-
-
-
-
 <img src="https://komarev.com/ghpvc/?username=AnnaGonos&style=flat-square&color=blue" alt=""/>
+
+&nbsp;
+
+#📚 &nbsp; Studies
+
+&nbsp;
+ 
+ #📊 &nbsp; Stats
+
+ 
   
 </div>
 
 &nbsp;
+
+![I-SER-I' Github Stats](https://github-readme-stats.vercel.app/api?username=AnnaGonos&hide=issues,prs&show_icons=true&theme=radical)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnnaGonos&theme=dark&background=000000)](https://git.io/streak-stats)
 
