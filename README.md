@@ -49,18 +49,12 @@
 
 &nbsp;
 
-![I-SER-I' Github Stats](https://github-readme-stats.vercel.app/api?username=AnnaGonos&hide=issues,prs&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaGonos&show_icons=true&theme=radical)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnnaGonos&hide=issues,prs&show_icons=true&theme=radical)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=AnnaGonos&hide=issues,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaGonos&show_icons=true&bg_color=00000000)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaGonos&hide=issues,prs&show_icons=true&theme=radical)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaGonos&show_icons=true&theme=radical)
 
 
 
