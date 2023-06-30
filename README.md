@@ -19,11 +19,11 @@
 
 ## 📚 &nbsp; Studies
 
-### First year (2022-2023):
+### &nbsp; First year (2022-2023):
 
-#### 1 semester:
+#### &nbsp; 1 semester:
 
-#### 2 semester:
+#### &nbsp; 2 semester:
 
 
 
