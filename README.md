@@ -25,9 +25,17 @@
 ### &nbsp; &nbsp; &nbsp; 📋 &nbsp;Languages
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1F75FE?style=for-the-badge&logo=C%2b%2b&logoColor=white)
 ![C](https://img.shields.io/badge/C-30B21A?style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=python)
+
+### &nbsp; &nbsp; &nbsp; 🕓 &nbsp;Version Control
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 
