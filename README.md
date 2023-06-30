@@ -7,7 +7,7 @@
 
 [telegram]: https://t.me/GonosAnna  
 
-
+<img src="https://komarev.com/ghpvc/?username=AnnaGonos&style=flat-square&color=blue" alt=""/>
   
 </div>
 
