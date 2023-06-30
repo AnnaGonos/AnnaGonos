@@ -11,7 +11,7 @@
 
 [<img align="left" alt="I_SER_I | Instagram" width="60px" src="https://yt3.googleusercontent.com/niGc0xHujoOinmo0e_w_ZJVPGdj97kcepkWunR5dISeCQlueGf1ewLfGTxUMnJa-i6vrz1rD=s900-c-k-c0x00ffffff-no-rj" />][vk]
 
-[vk]:
+[vk]: https://vk.com/gonos
 
 
 <img src="https://komarev.com/ghpvc/?username=AnnaGonos&style=flat-square&color=blue" alt=""/>
