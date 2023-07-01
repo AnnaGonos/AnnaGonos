@@ -23,7 +23,7 @@
 ### &nbsp; First year (2022-2023):
 
 - #### &nbsp; [1 semester](https://github.com/AnnaGonos/IS-1_Sem)
-- 2 semester:
+- #### &nbsp; 2 semester:
 
 
 
