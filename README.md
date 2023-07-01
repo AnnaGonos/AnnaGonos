@@ -38,6 +38,7 @@
 ![C++](https://img.shields.io/badge/C++-1F75FE?style=for-the-badge&logo=C%2b%2b&logoColor=white)
 ![C](https://img.shields.io/badge/C-30B21A?style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=python)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ### &nbsp; &nbsp; &nbsp; 🕓 &nbsp;Version Control
 
@@ -46,7 +47,11 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+### &nbsp; &nbsp; &nbsp; 💻 &nbsp;IDEs/Editors and Instruments
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
 &nbsp;
