@@ -1,4 +1,4 @@
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&weight=900&size=21&pause=1000&color=CACACA&center=true&vCenter=true&width=450&height=66&lines=Hello+there+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 <div id="header" align="center">
 
@@ -13,8 +13,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=AnnaGonos&style=flat-square&color=blue" alt=""/>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+there+👋)](https://git.io/typing-svg)
 
 </div>
 
