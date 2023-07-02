@@ -3,7 +3,7 @@
 <div id="header" align="center">
 
   
-  <img src="https://media.giphy.com/media/aFTt8wvDtqKCQ/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/srVgXpqz5QdTG/giphy.gif" width="250"/>
 
 [<img align="center" alt="AnnaGonos | Telegram" width="50px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 [<img align="center" alt="AnnaGonos | VK" width="60px" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/7257b244913357.582202408a049.jpg" />][vk]
