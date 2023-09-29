@@ -1,1 +1,0 @@
-add_library(mp3parser MP3parser.cpp frames.cpp)
