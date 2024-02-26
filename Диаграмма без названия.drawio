@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T13:08:49.102Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="mG9PbD1y1Rle5IsiimL8" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T13:14:05.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="cL_rsELK82z-J90_vnVT" version="23.1.6" type="github">
   <diagram name="Страница — 1" id="LTTzaxPPcmoizCmSulEp">
     <mxGraphModel dx="4968" dy="2268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1202,7 +1202,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FbfgumM9k3iWBc4ifTP3-553" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://present5.com/customparser/9845759_13893724%20---%20er-modelirovanie.ppt/slide_41.jpg;clipPath=inset(1.56% 3.33% 11.78% 0%);" parent="1" vertex="1">
-          <mxGeometry x="1654" y="100" width="609.74" height="410" as="geometry" />
+          <mxGeometry x="50" y="130" width="609.74" height="410" as="geometry" />
         </mxCell>
         <mxCell id="FbfgumM9k3iWBc4ifTP3-571" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="FbfgumM9k3iWBc4ifTP3-412" target="FbfgumM9k3iWBc4ifTP3-271" edge="1">
           <mxGeometry relative="1" as="geometry">
